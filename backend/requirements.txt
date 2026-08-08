@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+google-generativeai
+PyMuPDF  # For parsing PDF resumes
+python-multipart  # For handling file uploads
+pandas  # For handling structured data
